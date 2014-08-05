@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.camden.rssviewer4"
+        versionCode="10" 
+        version   = "5.0.0">
+
+    <name>MakerNews.in</name>
+
+    <description>
+        MakerNews.in official app
+    </description>
+
+    <author href="https://sites.google.com/site/sarthakinnovates/" email="sarthak.sethi@hotmail.com">
+        Sarthak Sethi
+    </author>
+
+    <preference name="phonegap-version" value="3.0.0" />
+
+    <icon src="icons/Feed_128x128.png" />
+</widget>
